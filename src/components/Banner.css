@@ -1,0 +1,16 @@
+.banner {
+  background: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/josie-upholstered-low-profile-pl-1627489111.jpeg?crop=1xw:1xh;center,top&resize=768:*")
+    center;
+  height: 50vh;
+  position: relative;
+}
+
+.inside__banner {
+  background-color: black;
+  color: white;
+  padding-top: 25vh;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 40px;
+  width: 300px;
+}
